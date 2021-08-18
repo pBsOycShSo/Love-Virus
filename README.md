@@ -29,5 +29,11 @@ Dangerous virus making tool
 
 •``./I-love.sh``
 
+• [+] Tool update
+
+•``cd Love-Virus``
+
+•``bash update.sh``
+
 
 <img src="I Love You.png">
