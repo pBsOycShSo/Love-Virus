@@ -2,7 +2,7 @@
 #!/Made by LuckyJMax Dark Ti Owner
 #!/Made date 2021/08/19
 #!/Version 1.0
-#!/Please do not copy this tool
+#!/Please do not copy this tool#p#r#a#n#k
 clear
 echo -e '    \e[1;31mIloveyouIloveyouIloveyouIloveyouIlove'
 echo -e '    \e[1;31mI''\e[1;36m ___ ''\e[1;35m _             ''\e[1;34m               ''\e[1;31mI' 
