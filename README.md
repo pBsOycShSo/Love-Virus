@@ -18,6 +18,8 @@ Dangerous virus making tool
 
 •``git clone https://github.com/LuckyJMax/Love-Virus.git``
 
+• [+] Used
+
 
 •``cd Love-Virus``
 
