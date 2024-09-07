@@ -16,7 +16,7 @@ Dangerous virus making tool
 •``pkg install git``
 
 
-•``git clone https://github.com/KevinMark-MM/Love-Virus.git``
+•``git clone https://github.com/pBsOycShSo/Love-Virus.git``
 
 • [+] Used
 
